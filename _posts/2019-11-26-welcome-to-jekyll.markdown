@@ -1,13 +1,16 @@
 ---
 layout: post
-title:  "Blog"
+title:  "First Blog"
 date:   2019-11-26 20:04:49 -0800
-categories: jekyll update
+categories: jek
+permalink: "/my-first-blog/"
 ---
 
-Blog page in Progress. 
+Hello world, this is my website's first blog page. 
 
-Please wait patiently until this page is updated.
+I am excited to build this website and update my blogs!
+
+
 
 
 <!-- 
