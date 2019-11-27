@@ -3,7 +3,6 @@ layout: post
 title:  "First Blog"
 date:   2019-11-26 20:04:49 -0800
 categories: jekyll update
-
 ---
 
 Hello world, this is my website's first blog page. 
