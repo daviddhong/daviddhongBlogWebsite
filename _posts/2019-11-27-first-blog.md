@@ -2,7 +2,7 @@
 layout: post
 title:  "Translink strike update!"
 date:   2019-11-27 11:30:49 -0800
-categories: jek
+categories: jekyll update
 permalink: "/translink-strike/"
 ---
 
