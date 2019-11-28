@@ -22,7 +22,7 @@ title: David Hong
 email: 
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to my website everyone :) You can learn more about me through this webpage.
-baseurl: "daviddhongWebsite" # the subpath of your site, e.g. /blog
+baseurl: "daviddhongWebsite" # the subpath of your site, use daviddhongWebsite
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username:  daviddhong
