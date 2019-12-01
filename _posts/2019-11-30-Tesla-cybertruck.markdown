@@ -5,7 +5,7 @@ date:   2019-11-30 11:30:49 -0800
 categories: jekyll update
 permalink: "/tesla-cybertruck/"
 ---
-![Tesla Cybertruck](/img/tesla.png)
+![Tesla Cybertruck](https://i.imgur.com/bxxnhZU.png)
 
 Elon Musk, has announced the new tesla cybertruck. 
 
