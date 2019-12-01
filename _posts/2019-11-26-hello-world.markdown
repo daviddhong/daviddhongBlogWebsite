@@ -11,3 +11,5 @@ Hello world, this is my website's first blog page.
 I am excited to build this website and update my blogs!
 
 ![picture of the world](https://i.imgur.com/O6UHSaJ.jpg)
+
+<!-- used https://imgur.com/ -->

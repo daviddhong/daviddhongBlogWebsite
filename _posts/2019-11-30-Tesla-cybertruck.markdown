@@ -23,3 +23,5 @@ The design has got the attention of car enthusiasts to technology fanatics to ju
 </div>
 
 [news]: https://www.tesla.com/en_ca/cybertruck
+
+<!-- used https://imgur.com/ -->
